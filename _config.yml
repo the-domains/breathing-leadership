@@ -6,9 +6,9 @@ color:
   saturation: 0.9604014137294143
   rhythmicContrast: 0.9546662494540215
   brandColors:
-    - '#170F0E'
-    - '#290418'
-    - '#505217'
-    - '#FFD372'
-    - '#FFF1AF'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
 name: breathing leadership
