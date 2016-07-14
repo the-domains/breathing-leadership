@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[breathing leadership]]></title>
+        <description><![CDATA[breathing leadership]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 14 Jul 2016 16:57:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Breathing Leadership | Mindfulness for Leaders]]></title>
+            <description><![CDATA[<article><h1>Breathing Leadership | Mindfulness for Leaders</h1><p>Now almost 6 years later in July of 2015... I'm launching this site as a resource for others. Together we'll explore the connections between mindfulness, emotional intelligence, authentic presence, effectiveness, and leadership.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e04590f3b7b132422918b8e41ce6081e/noop.jpg?input=http%3A%2F%2Fwww.breathingleadership.com%2Fwp-content%2Fuploads%2F2015%2F06%2FEverybody-should-be-quiet-by-a-stream.jpg"></article>]]></description>
+            <link>http://www.breathingleadership.com</link>
+            <guid isPermaLink="false">3f8889b8-8ab0-4dd3-804a-346d8e3d5596</guid>
+            <pubDate>Thu, 14 Jul 2016 16:57:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
