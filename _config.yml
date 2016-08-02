@@ -1,4 +1,3 @@
-layout_spectrum: 0.6950715177226812
 typography_spectrum: 0.09189422358758748
 color:
   brandStrength: 0.9395799583289772
@@ -11,6 +10,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-name: breathing leadership
+layout_spectrum: 0.6950715177226812
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/85c260bb-ccc6-4509-9738-b9f45134db90.png
+name: breathing leadership
+description: Mindfulness for leaders
