@@ -24,15 +24,14 @@ description: >-
   leadership.
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://www.breathingleadership.com'
 title: Breathing Leadership | Mindfulness for Leaders
-datePublished: '2016-07-14T16:57:39.827Z'
-dateModified: '2016-07-14T16:56:51.563Z'
-starred: false
+datePublished: '2016-08-02T19:58:01.754Z'
+dateModified: '2016-08-02T19:58:01.297Z'
 sourcePath: _posts/2016-07-14-breathing-leadership-or-mindfulness-for-leaders.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+via: {}
+starred: false
+url: breathing-leadership-or-mindfulness-for-leaders/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
