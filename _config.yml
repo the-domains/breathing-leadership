@@ -14,5 +14,9 @@ layout_spectrum: 0.6950715177226812
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/85c260bb-ccc6-4509-9738-b9f45134db90.png
 name: breathing leadership
+navigation:
+  - name: The Start
+    id: 3f8889b8-8ab0-4dd3-804a-346d8e3d5596
+    type: content
 title: Mindfulness for Leaders
 description: Mindfulness for leaders
